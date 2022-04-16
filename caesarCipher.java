@@ -16,7 +16,7 @@
 */
 // import all needed utilities
 import java.util.*;
-public class proj1{
+public class caesarCipher{
   public static void main(String[] args){
     // infinite loop that runs system until user says not to run anymore
     while(true){
